@@ -5,7 +5,7 @@ window.onload = function()
         dimension   = 3,
         dificultad  = 1;
 
-        alert("Sudoku");
+       
     //Para cargar los combos...
 
     var select = nom_div("opc_2");
